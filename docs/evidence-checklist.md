@@ -14,5 +14,3 @@ Add sanitized screenshots with clear captions:
 - [ ] `10-azure-resource-overview.png` — deployed resources in portal
 - [ ] `11-final-plan.png` — no-change verification (capture if run)
 - [ ] `12-cleanup.png` — destroy confirmation (capture only if performed)
-
-Before uploading, redact subscription IDs, tenant IDs, emails, usernames, tokens, access keys, and any other account-specific identifiers. Do not publish `.tfstate` or saved plan files.

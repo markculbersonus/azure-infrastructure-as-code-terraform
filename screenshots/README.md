@@ -1,9 +1,5 @@
-# Deployment evidence
+# Terraform project screenshots
 
-Upload your sanitized screenshots to **this folder** once the GitHub repository is live. Use **Add file → Upload files** while viewing `screenshots/`.
+Collected from screenshots shared in the conversation on November 18, 2026. Original captures have been renamed for easier review. These are **not redacted**; review and mask subscription IDs, tenant/account identifiers, resource IDs, browser profile information, and other sensitive details before publishing publicly.
 
-See [evidence checklist](../docs/evidence-checklist.md) for suggested filenames and captions.
-
-Before publishing, remove subscription and tenant IDs, account email addresses, usernames, access keys, tokens, and other identifying information. Do not upload Terraform state or plan files.
-
-The screenshots are intentionally not bundled here; this folder is ready for your future uploads.
+These captures include code, Terraform plans/applies, Azure resource provider troubleshooting, and Azure portal verification.
